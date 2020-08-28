@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdbool.h>
-
+// 0 == false
 int main()
 {
     if(0) {
