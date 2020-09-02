@@ -1,0 +1,51 @@
+Welcome to Student Performance Management System (SPMS).
+
+1 - Add
+2 - Remove
+3 - Query
+4 - Show ranking
+5 - Show Statistics
+0 - Exit
+
+n=0
+Please enter SID, CID, name and four scores. Enter 0 to finish.
+Please enter SID, CID, name and four scores. Enter 0 to finish.
+Please enter SID, CID, name and four scores. Enter 0 to finish.
+Please enter SID, CID, name and four scores. Enter 0 to finish.
+Please enter SID, CID, name and four scores. Enter 0 to finish.
+Welcome to Student Performance Management System (SPMS).
+
+1 - Add
+2 - Remove
+3 - Query
+4 - Show ranking
+5 - Show Statistics
+0 - Exit
+
+n=4
+Please enter SID or name, Enter 0 to finish.
+1 student(s) removed.
+Please enter SID or name, Enter 0 to finish.
+Welcome to Student Performance Management System (SPMS).
+
+1 - Add
+2 - Remove
+3 - Query
+4 - Show ranking
+5 - Show Statistics
+0 - Exit
+
+n=3
+Please enter SID or name, Enter 0 to finish.
+1 0011223344 2 Alice 100 100 100 100 100.00
+Please enter SID or name, Enter 0 to finish.
+Welcome to Student Performance Management System (SPMS).
+
+1 - Add
+2 - Remove
+3 - Query
+4 - Show ranking
+5 - Show Statistics
+0 - Exit
+
+n=3
