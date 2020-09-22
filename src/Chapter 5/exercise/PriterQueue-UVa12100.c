@@ -10,7 +10,7 @@ int Q[1001];
 int main()
 {
 #ifdef LOCAL
-    char* filename;
+    char filename[sizeof(__FILE__) + 3];
     get_input_filename(filename, __FILE__);
     freopen(filename, "r", stdin);
     get_output_filename(filename);
@@ -33,11 +33,6 @@ int main()
         while (head < tail)
         {
             int J = Q[head];
-            if (J == 0)
-            {
-                head++;
-                continue;
-            }
 
             ans++;
             // find max_i
